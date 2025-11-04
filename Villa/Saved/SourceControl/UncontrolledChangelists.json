@@ -1,0 +1,31 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Changelist non controllate predefinite",
+			"files": [
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Flashlight/Material/MI_FlashLight.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Flashlight/Black_Metal_001.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Flashlight/Button.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Flashlight/FlashLight.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Animations/Flashlight_Base_Pose.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Animations/Flashlight_Close_To_Wall_Additive.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Animations/Flashlight_Idle_.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Flashlight/Material/Flashlight_Light_Texture.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Animations/Flashlight_Unequip.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Animations/Flashlight_Walk.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Flashlight/Glass.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Flashlight/Glass_001.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Flashlight/White_Plastic.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/Zoom.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/SW/TIQT9J14OJH7AMXYGF5YU7.uasset",
+				"D:/ProgettiAccademia/Villa/Villa/Content/ThirdPerson/Animations/Animazione.uasset"
+			]
+		}
+	]
+}
